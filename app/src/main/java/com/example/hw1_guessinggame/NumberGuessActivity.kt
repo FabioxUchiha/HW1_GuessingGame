@@ -23,7 +23,6 @@ class NumberGuessActivity : AppCompatActivity() {
     }
 
     private fun iniciarJuego() {
-
         val r = Random()
         ayuda = r.nextInt(1000) + 1
         Toast.makeText(this, "el random es: "+ayuda, Toast.LENGTH_SHORT).show()
