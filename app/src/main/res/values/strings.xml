@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="alto">ayuda: el numero es mas alto!</string>
+    <string name="bajo">ayuda: el numero es mas bajo!</string>
+</resources>
