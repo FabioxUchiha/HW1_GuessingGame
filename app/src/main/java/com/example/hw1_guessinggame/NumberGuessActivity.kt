@@ -35,7 +35,6 @@ class NumberGuessActivity : AppCompatActivity() {
             btnIniciar.isEnabled = true
             ingresaNumero.text.clear()
             txtMensaje.text = ""
-
     }
 
 
@@ -78,6 +77,7 @@ class NumberGuessActivity : AppCompatActivity() {
                 else -> {
                     txtMensaje.text = "el numero de intentos usados fue: $jugadas"
                     ingresaNumero.isEnabled = false
+
                 }
         }
         }
