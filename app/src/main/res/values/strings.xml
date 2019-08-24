@@ -2,4 +2,8 @@
     <string name="app_name">HW1_GuessingGame</string>
     <string name="alto">ayuda: el numero es mas alto!</string>
     <string name="bajo">ayuda: el numero es mas bajo!</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="jugar">JUGAR</string>
+    <string name="juego_de_adivinar_el_numero">JUEGO DE ADIVINAR EL NUMERO</string>
+    <string name="ingrese_un_numero_entre_1_y_1000">INGRESE UN NUMERO ENTRE 1 Y 1000</string>
 </resources>
